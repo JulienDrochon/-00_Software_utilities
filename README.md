@@ -1,4 +1,4 @@
-# 00_Github_Utilities
+# 00_Software_Utilities
 Several software utilities for simplifyinf communication between Arduino (Serial port), Web Browser (Websockets) and Multimedia Softwares using OSC (Unity 3D, MAx MSP, Processing, Madmapper, …).
 Data have to be send from Arduino code with a tab ('\t') separator.
 #
